@@ -50,8 +50,8 @@ I enjoy working on real-world problems through both software development and dat
 
 ## 📫 Contact Me
 - 📧 Email: rand.mo.khaled@gmail.com  
-- 💼 LinkedIn: (add your link here)  
+- 💼 LinkedIn: ([https://www.linkedin.com/in/rand-mo-b54820372/](https://www.linkedin.com/in/rand-mo-b54820372/))
 
 ---
 
-⭐ Always open to internship opportunities, collaboration, and learning new technologies!
+
