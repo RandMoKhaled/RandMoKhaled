@@ -3,7 +3,7 @@
 🎓 Computer Science and Engineering Student at Sabancı University  
 🌍 Based in Istanbul, Türkiye | Originally from Ramallah, Palestine  
 
-💡 Interested in Machine Learning, Artificial Intelligence, Cybersecurity, and Software Engineering  
+💡 Interested in Machine Learning, Artificial Intelligence, Computer Graphics, and Software Engineering  
 
 ---
 
@@ -15,14 +15,14 @@ I enjoy working on real-world problems through both software development and dat
 
 ## 🧠 Interests
 - Machine Learning & Artificial Intelligence  
-- Cybersecurity  
+- Computer Graphics 
 - Software Engineering & System Design  
 - Data Analysis  
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** C++, Python  
+- **Languages:** C++, Python, HTML, CSS, JavaScript  
 - **Technologies:** TCP/IP Socket Programming, Arduino  
 - **Data Science:** Data Analysis, Statistical Testing  
 - **Tools:** GitHub, Wireshark, Cisco Packet Tracer, Visual Studio  
@@ -42,9 +42,10 @@ I enjoy working on real-world problems through both software development and dat
 ---
 
 ## 🌱 Currently Learning
-- Machine Learning  
-- Algorithms & Data Structures  
-- Foundations of AI  
+- Natural Language Processing 
+- Computer Graphics 
+- Human Computer Interactions
+- Software Engineering  
 
 ---
 
