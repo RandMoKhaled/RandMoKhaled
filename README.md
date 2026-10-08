@@ -1,19 +1,19 @@
-# Hi, I'm Rand 👋
+# Hi, I'm Rand 
 
-🎓 Computer Science and Engineering Student at Sabancı University  
-🌍 Based in Istanbul, Türkiye | Originally from Ramallah, Palestine  
+ Computer Science and Engineering Student at Sabancı University  
+ Based in Istanbul, Türkiye | Originally from Ramallah, Palestine  
 
-💡 Interested in Machine Learning, Artificial Intelligence, Computer Graphics, and Software Engineering  
+Interested in Machine Learning, Artificial Intelligence, Computer Graphics, and Software Engineering  
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a Computer Science student passionate about building practical systems and exploring data-driven solutions.  
 I enjoy working on real-world problems through both software development and data analysis, with a growing focus on machine learning and intelligent systems.  
 
 ---
 
-## 🧠 Interests
+##  Interests
 - Machine Learning & Artificial Intelligence  
 - Computer Graphics 
 - Software Engineering & System Design  
@@ -21,7 +21,7 @@ I enjoy working on real-world problems through both software development and dat
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - **Languages:** C++, Python, HTML, CSS, JavaScript  
 - **Technologies:** TCP/IP Socket Programming, Arduino  
 - **Data Science:** Data Analysis, Statistical Testing  
@@ -29,19 +29,19 @@ I enjoy working on real-world problems through both software development and dat
 
 ---
 
-## 📊 Projects
-- 🧠 **Huda Beauty Shade Inclusivity Analysis**  
+##  Projects
+-  **Huda Beauty Shade Inclusivity Analysis**  
   Data science project analyzing shade diversity using the Fitzpatrick scale  
 
-- 🌐 **Networked Quiz Application**  
+-  **Networked Quiz Application**  
   TCP-based client-server system with real-time communication  
 
-- 📱 **SU-Learning Companion App**  
+-  **SU-Learning Companion App**  
   Mobile app to help students manage academic resources  
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Natural Language Processing 
 - Computer Graphics 
 - Human Computer Interactions
@@ -49,9 +49,9 @@ I enjoy working on real-world problems through both software development and dat
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: rand.mo.khaled@gmail.com  
-- 💼 LinkedIn: ([https://www.linkedin.com/in/rand-mo-b54820372/](https://www.linkedin.com/in/rand-mo-b54820372/))
+##  Contact Me
+-  Email: rand.mo.khaled@gmail.com  
+-  LinkedIn: ([https://www.linkedin.com/in/rand-mo-b54820372/](https://www.linkedin.com/in/rand-mo-b54820372/))
 
 ---
 
